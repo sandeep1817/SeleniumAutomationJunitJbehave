@@ -1,0 +1,28 @@
+<div class="story">
+<h1></h1>
+<div class="path">stories/greytHRLogin.story</div>
+<div class="scenario">
+<h2>Scenario: Login succesfully to greytHR site</h2>
+<div class="examples">
+<h3>Examples:</h3>
+<div class="step">Given the &lt;url&gt; is launched</div>
+<div class="step">When username &lt;user&gt; and password &lt;pwd&gt; is entered and click on sigin</div>
+<div class="step">Then greytHR home page should display</div>
+<table>
+<thead>
+<tr>
+<th>url</th><th>user</th><th>pwd</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>https://milvik.greythr.com/login.do</td><td>66</td><td>Thambu@4512</td></tr>
+</tbody>
+</table>
+
+<h3 class="example">Example: {url=https://milvik.greythr.com/login.do, user=66, pwd=Thambu@4512}</h3>
+<div class="step successful">Given the <span class="step parameter">https://milvik.greythr.com/login.do</span> is launched</div>
+<div class="step successful">When username <span class="step parameter">66</span> and password <span class="step parameter">Thambu@4512</span> is entered and click on sigin</div>
+<div class="step failed">Then greytHR home page should display <span class="keyword failed">(FAILED)</span><br/><span class="message failed">junit.framework.ComparisonFailure: expected:&lt;[Sandeep Basireddy]&gt; but was:&lt;[Basireddy Sandeep]&gt;</span></div>
+</div>
+</div>
+</div>

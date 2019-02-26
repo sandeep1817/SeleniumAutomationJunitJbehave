@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Tue Feb 12 16:24:54 IST 2019
+threads=1
+total=10000
+threadAverage=10000
+stories/greytHRLogin.story=10000

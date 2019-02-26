@@ -1,0 +1,8 @@
+milvik\bima\mapper\GretyHRMapper.class
+milvik\bima\mapper\GenericMapper.class
+milvik\bima\steps\BimaSteps.class
+milvik\bima\pages\GreytHRSignInPage.class
+milvik\bima\runner\TestRunner.class
+milvik\bima\pages\BimaHomePage.class
+milvik\bima\steps\GreyHRSteps.class
+milvik\bima\mapper\BimaHomePageMapper.class

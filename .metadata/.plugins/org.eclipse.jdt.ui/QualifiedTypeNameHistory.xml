@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="net.serenitybdd.jbehave.SerenityStory"/>
+<fullyQualifiedTypeName name="net.serenitybdd.jbehave.SerenityStories"/>
+<fullyQualifiedTypeName name="org.jbehave.core.configuration.Configuration"/>
+<fullyQualifiedTypeName name="org.jbehave.core.configuration.MostUsefulConfiguration"/>
+<fullyQualifiedTypeName name="org.jbehave.core.io.LoadFromClasspath"/>
+<fullyQualifiedTypeName name="org.jbehave.core.reporters.StoryReporterBuilder"/>
+<fullyQualifiedTypeName name="org.jbehave.core.reporters.Format"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.jbehave.core.steps.InjectableStepsFactory"/>
+<fullyQualifiedTypeName name="net.serenitybdd.jbehave.SerenityStepFactory"/>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.Given"/>
+<fullyQualifiedTypeName name="milvik.bima.steps.BimaSteps"/>
+<fullyQualifiedTypeName name="milvik.bima.pages.BimaHomePage"/>
+<fullyQualifiedTypeName name="net.serenitybdd.core.pages.PageObject"/>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.When"/>
+<fullyQualifiedTypeName name="milvik.bima.steps.GreyHRSteps"/>
+<fullyQualifiedTypeName name="milvik.bima.pages.GreytHRSignInPage"/>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.Then"/>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.Named"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="net.thucydides.core.annotations.Steps"/>
+<fullyQualifiedTypeName name="net.thucydides.core.annotations.Step"/>
+<fullyQualifiedTypeName name="net.serenitybdd.core.annotations.findby.FindBy"/>
+<fullyQualifiedTypeName name="net.serenitybdd.core.pages.WebElementFacade"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+</qualifiedTypeNameHistroy>
