@@ -1,0 +1,24 @@
+!-- GIT Basic Commands
+
+# To add the project from Eclipse to GIT
+1. Go to the workspace of the project and open GitBash here
+2. git init - used to create a new GIT repository
+3. git add . - Adds all the files modified and new files in current directory
+4. git commit -m "Message" - saves all the files in your local repository
+5. git add remote origin <URL of the repository> - 
+6. git push origin master - Local master branch will be pushed to the master branch of the remote repo
+7. git branch -a - Displays all the existing branches of Repo
+8. git checkout -b develop - creates new branch and switches to the same branch
+9. git branch develop - switches to the develop branch
+10. git checkout develop - will checkouts the develop branch
+11. git push origin develop - Commits will be pushed to develop branch
+12. git config -user.name - sets user name
+13. git config -user.email - sets ur email
+14. git clone <url> - used to clone the existing repository
+15. git add - Adds a file to the staging area
+16. git diff - Shows the changes between Head and Working Directory
+17. git diff -staged - Shows the difference between files in staging area and the latest version present
+18. git diff dev1 dev2 - shows the differnce between 2 branches mentioned.
+19. git stash save - This command restores all the modified tracked files
+20. git stash pop - this command retores all the stashed files
+21. git stash drop - this command discards the most recently stashed changes

@@ -13,7 +13,7 @@ public class TestRunner extends SerenityStories{
 	
 	protected String storiesToRun = "greytHRLogin.story";
 	protected String storiesFoldersToRun = "";
-
+ 
 	public TestRunner(){
 		findStoriesCalled(storiesToRun);
 		//findStoriesIn(storiesFoldersToRun);

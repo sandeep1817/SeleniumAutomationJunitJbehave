@@ -5,4 +5,4 @@ When username <user> and password <pwd> is entered and click on sigin
 Then greytHR home page should display
 Examples:
 |url|user|pwd|
-|https://milvik.greythr.com/login.do|66|Thambu@4512|
+|https://milvik.greythr.com/login.do|66||
